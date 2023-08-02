@@ -82,6 +82,6 @@ We welcome contributions from the community to improve the Programming Language 
 
 ---
 
-We hope the Programming Language Explorer app helps you in your journey to explore and learn various programming languages. If you encounter any difficulties or have feedback, feel free to reach out to.
+We hope the Programming Language Explorer app helps you in your journey to explore and learn various programming languages. If you encounter any difficulties or have feedback, feel free to reach out to me and dnt hesitate to ask me .
 
 Happy coding! 🚀
