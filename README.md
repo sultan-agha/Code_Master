@@ -27,8 +27,7 @@ The application is built using Flutter, a popular UI toolkit for creating native
 - User-friendly interface and smooth navigation.
 
 ## Screenshots
-
-(Insert some screenshots of your app here to give readers a visual understanding.)
+<img src="images/discription.jpg" height="600" alt="view of the discription page "> <img src="images/animation.jpg" height="400" alt="view of the learning "> <img src="images/starting.jpg" height="600" alt="view of the starting page "> 
 
 ## Getting Started
 
